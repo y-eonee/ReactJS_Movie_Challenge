@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/static/css/main.dadea29f.css",
-    "main.js": "/static/js/main.f291aaf6.js",
-    "index.html": "/index.html",
-    "main.dadea29f.css.map": "/static/css/main.dadea29f.css.map",
-    "main.f291aaf6.js.map": "/static/js/main.f291aaf6.js.map"
+    "main.css": "/ReactJS_Movie_Challenge/static/css/main.dadea29f.css",
+    "main.js": "/ReactJS_Movie_Challenge/static/js/main.5bff15aa.js",
+    "index.html": "/ReactJS_Movie_Challenge/index.html",
+    "main.dadea29f.css.map": "/ReactJS_Movie_Challenge/static/css/main.dadea29f.css.map",
+    "main.5bff15aa.js.map": "/ReactJS_Movie_Challenge/static/js/main.5bff15aa.js.map"
   },
   "entrypoints": [
     "static/css/main.dadea29f.css",
-    "static/js/main.f291aaf6.js"
+    "static/js/main.5bff15aa.js"
   ]
 }

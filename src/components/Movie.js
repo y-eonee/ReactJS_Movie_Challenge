@@ -6,7 +6,7 @@ function Movie({id, coverImg, title, summary, genres}){
     return (
         <div id="movie-container">
             <h2 className="movie-title">
-                <Link to={`${process.env.PUBLIC_URL}/movie/${id}`}>{title}</Link>
+                <Link to={`/movie/${id}`}>{title}</Link>
             </h2>
             <ul className="movie-genre">
                 {genres.map(g => <li key={g}>{g}</li>)} {/*각 g에 대해 map함수 한 번 더 적용*/}

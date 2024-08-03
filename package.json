@@ -18,9 +18,8 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "deploy" : "gh-pages -d build",
+    "deploy": "gh-pages -d build",
     "predeploy": "npm run build"
-
   },
   "eslintConfig": {
     "extends": [
@@ -40,5 +39,5 @@
       "last 1 safari version"
     ]
   },
-  "homapge" : "https://yeonee.github.io/ReactJS_Movie_Challenge"
+  "homapge": "https://yeonee.github.io/ReactJS_Movie_Challenge"
 }
